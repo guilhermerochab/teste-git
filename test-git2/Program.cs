@@ -5,6 +5,7 @@ namespace test_git2 {
         static void Main(string[] args) {
             Console.WriteLine("Olá mundo!");
             Console.WriteLine("Bom jour");
+            Console.WriteLine("Boa noite");
         }
     }
 }
